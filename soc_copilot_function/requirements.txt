@@ -1,0 +1,4 @@
+google-cloud-storage
+google-cloud-aiplatform
+google-cloud-bigquery
+vertexai

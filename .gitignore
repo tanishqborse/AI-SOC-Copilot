@@ -1,0 +1,19 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Terraform state
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+terraform-key.json
+terraform.lock.hcl
+# VSCode settings
+.vscode/
+
+# MacOS / Windows system files (optional but good hygiene)
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/

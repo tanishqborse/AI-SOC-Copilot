@@ -1,0 +1,6 @@
+[
+  {"name": "threat_category", "type": "STRING"},
+  {"name": "mitre_ttps", "type": "STRING"},
+  {"name": "severity", "type": "STRING"},
+  {"name": "recommendation", "type": "STRING"}
+]
