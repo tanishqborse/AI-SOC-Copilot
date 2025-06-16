@@ -18,6 +18,9 @@ This project implements a **serverless AI-driven Security Operations Center (SOC
 ✅ Fully serverless — no persistent infrastructure  
 ✅ Easily extendable for real-world production-grade SOC pipelines
 
+### 🛠️ Infrastructure as Code (Terraform)
+This project uses Terraform to automate and provision all the GCP resources needed for the SOC Copilot pipeline. This enables reproducibility, faster deployments, and cloud-native DevSecOps practices.
+
 ---
 
 ## 🏗️ Architecture Diagram
