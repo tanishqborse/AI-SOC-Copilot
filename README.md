@@ -174,3 +174,12 @@ gemini-secops-pipeline:soc_copilot.threat_analysis
 - ✅ GCP IAM permissions on Pub/Sub, Cloud Functions, Vertex AI, and BigQuery
 - ✅ Terraform state files excluded via .gitignore (no keys exposed)
 - ✅ Environment isolation for staging/prod via separate deployments
+
+
+## UI
+https://lookerstudio.google.com/s/i_vKnNdNuJE
+
+![bigquery](https://github.com/user-attachments/assets/8f876310-703e-4022-8dde-6911f7371254)
+![dashboard](https://github.com/user-attachments/assets/e3389234-f8d0-43c8-a2c4-b577c748de5a)
+![threatbased](https://github.com/user-attachments/assets/c6641e2e-e939-4495-9c65-88a32bddd316)
+![threatbased2](https://github.com/user-attachments/assets/ba1f338a-6ff9-4d7a-84fe-cb753434a604)
